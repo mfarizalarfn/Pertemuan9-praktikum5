@@ -55,3 +55,6 @@ print("===================================================================")
 ```
 * Ini adalah hasil run dari syntax latihan module 5 yang saya buat <br>
 ![running](pict/run-latihan.PNG)<br>
+
+* Soal Tugas Praktikum yang ada pada module praktikum 5 adalah sebagai berikut<br>
+![praktikum5](pict/tugas-praktik5.PNG)<br>
