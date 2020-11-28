@@ -62,7 +62,7 @@ print("===================================================================")
 ![praktikum5](pict/hasil-prktk.PNG)<br>
 ![praktikum5](pict/hasil-prktk2.PNG)<br>
 
-* Setelah memahami materi dan membaca referensi dari google saya membuat syntx sebagai berikut : <br>
+* Setelah memahami materi saya membuat syntx sebagai berikut : <br>
 ```python
 from prettytable import PrettyTable
 
