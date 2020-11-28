@@ -58,3 +58,6 @@ print("===================================================================")
 
 * Soal Tugas Praktikum yang ada pada module praktikum 5 adalah sebagai berikut<br>
 ![praktikum5](pict/tugas-praktik5.PNG)<br>
+* Berikut hasil yang diinginkan pada soal praktikum  5<br>
+![praktikum5](pict/hasil-prktk.PNG)<br>
+![praktikum5](pict/hasil-prktk2.PNG)<br>
